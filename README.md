@@ -1,5 +1,5 @@
 # FreeCodeCamp-Certification
-## Progress Update - #02DaysOfHTML
+## Progress Update - #01DaysOfHTML
 - Day 1: Completed the HTML Basics lesson on freeCodeCamp.
 - Day 2: Finished Responsive Web Design certification.
   
